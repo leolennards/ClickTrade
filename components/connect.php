@@ -1,9 +1,9 @@
 <?php 
     // Set up the database connection details
-    $host = 'sql202.infinityfree.com';
-    $dbname = 'if0_39173833_clicktrade';
-    $username = "if0_39173833";
-    $password = "Isaiah60v22";
+    $host = 'host';
+    $dbname = 'database name';
+    $username = "username";
+    $password = "password";
 
     try {
         // Create a new PDO connection to the database
